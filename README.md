@@ -2,7 +2,7 @@ Erlang-Kademlia
 ===============
 
 
-Experimental implementation of distributed hash table in Erlang, following the Kademlia protocol/algorithm.
+Experimental implementation of a distributed hash table in Erlang, following the Kademlia protocol/algorithm.
 
 http://de.wikipedia.org/wiki/Kademlia
 
